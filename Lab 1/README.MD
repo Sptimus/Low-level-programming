@@ -23,4 +23,18 @@ Below is a list of useful resources for learning **low-level programming**, prim
 
 ---
 
+## Other
+
+6. **[NASM Documentation](https://www.nasm.us/xdoc/2.15.05/html/nasmdoc0.html)**
+
+7. **[Assembler_x86 Intro](https://pl.wikibooks.org/wiki/Asembler_x86)**
+
+8. **[Hello World in x86](https://pl.wikibooks.org/wiki/Asembler_x86/Pierwszy_program/NASM)**
+
+9. **[x86 cheatsheet](https://www.cs.uaf.edu/2006/fall/cs301/support/x86/)**
+
+10. **[x64 cheetsheet](https://www.cs.uaf.edu/2017/fall/cs301/reference/x86_64.html)**
+
+11. **[Linux Syscalls](https://filippo.io/linux-syscall-table/)**
+
 These resources will help in mastering **assembly language programming**, understanding **CPU architecture**, and working with **low-level system interactions**.
