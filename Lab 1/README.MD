@@ -37,4 +37,6 @@ Below is a list of useful resources for learning **low-level programming**, prim
 
 11. **[Linux Syscalls](https://filippo.io/linux-syscall-table/)**
 
+12. **[NASM Youtube Course](https://www.youtube.com/@olivestemlearning/videos)**
+
 These resources will help in mastering **assembly language programming**, understanding **CPU architecture**, and working with **low-level system interactions**.
