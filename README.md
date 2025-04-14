@@ -18,12 +18,3 @@ Students can clone this repository and access all necessary resources for the co
 ```bash
 git clone https://github.com/yourusername/low-level-programming.git
 ```
-New materials will be added regularly, so be sure to pull the latest updates:
-```bash
-git pull origin main
-```
-
-## 🔧 Contributions
-If you have any questions or suggestions, feel free to open an issue or contribute to the repository by submitting a pull request.
-
----
