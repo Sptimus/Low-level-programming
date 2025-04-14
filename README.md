@@ -11,6 +11,10 @@ This repository is dedicated to sharing materials for the **Low-level Programmin
 
 ## 📂 Structure
 - **Lab 1/** – Materials and exercises for the first lab session.
+- **Lab 2/** – Materials and exercises for the second lab session.
+- **Lab 3/** – Materials and exercises for the third lab session.
+- **Lab 4/** – Materials and exercises for the forth lab session.
+- **Lab 5/** – Materials and exercises for the fifth lab session.
 - **README.md** – Overview of the repository.
 
 ## 📌 Usage
